@@ -1,4 +1,4 @@
-# Case study: Titanic dataset 🚀
+# Case Study: Titanic dataset 🚀
 
 
 ## 🔥 What You'll Learn:
